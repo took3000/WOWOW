@@ -557,3 +557,8 @@ img {
 .statistics {height: 15px;font-family: Verdana;font-size: 11px;color: #EAEAEA;position: fixed;bottom: -20px;}
 .statistics a { color:#EAEAEA; text-decoration:none;}
 .statistics a:hover {text-decoration:none;}
+
+
+.c-tool-logo img {
+    margin-bottom: 10px;
+}
